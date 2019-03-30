@@ -52,7 +52,7 @@ Normalmente estos concursos tienen una lista de los problemas de anteriores ocas
 - Individual.
 - [Información](https://www.codechef.com/aboutus)
 - [Actuales y archivo](https://www.codechef.com/contests)
-- - Se programa online, se ejecuta en el servidor, así que solo se puede programar en un lenguaje de esta [lista](https://www.codechef.com/wiki/list-compilers).
+- Se programa online, se ejecuta en el servidor, así que solo se puede programar en un lenguaje de esta [lista](https://www.codechef.com/wiki/list-compilers).
 
 ## Codeforces
 
