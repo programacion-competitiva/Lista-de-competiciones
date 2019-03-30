@@ -92,6 +92,14 @@ Normalmente estos concursos tienen una lista de los problemas de anteriores ocas
 - [Información](https://www.kaggle.com/)
 - [Competiciones actuales y archivo](https://www.kaggle.com/competitions)
 
+## Lista de competiciones CTF
+
+- Campo específico: Seguridad, ingeniería inversa, hacking, criptografía.
+- Tanto individual como por equipos.
+- Frecuencia: alta, varios por semana.
+- [Lista](https://ctftime.org/event/list/upcoming)
+
+
 # Ejercicios para practicar
 
 Esta lista son de las webs en las que hay unos ejercicios para practicar programación, normalmente online. La mayoría se han mencionado anteriormente porque también hostean competiciones. Si se pone algo entre paréntesis es el campo específico en el que aprendereis algo.
