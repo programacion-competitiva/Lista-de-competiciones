@@ -97,7 +97,8 @@ Normalmente estos concursos tienen una lista de los problemas de anteriores ocas
 - Campo específico: Seguridad, ingeniería inversa, hacking, criptografía.
 - Tanto individual como por equipos.
 - Frecuencia: alta, varios por semana.
-- [Lista](https://ctftime.org/event/list/upcoming)
+- [Lista](https://ctftime.org/event/list/upcoming).
+- Nota: Esto no es una web concreta donde participar, es más bien una lista recopilatoria de eventos que se publica en [CTF Time](https://ctftime.org/).
 
 
 # Ejercicios para practicar
