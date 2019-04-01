@@ -99,7 +99,14 @@ Normalmente estos concursos tienen una lista de los problemas de anteriores ocas
 - Frecuencia: alta, varios por semana.
 - [Lista](https://ctftime.org/event/list/upcoming).
 - Nota: Esto no es una web concreta donde participar, es más bien una lista recopilatoria de eventos que se publica en [CTF Time](https://ctftime.org/).
-
+### Labs
+###### Competiciones permanentes
+- [HackTheBox](https://www.hackthebox.eu/)
+- [CTF365](https://ctf365.com/)
+- [OverTheWire](https://overthewire.org/warzone/connect)
+- [ShellterLabs](https://shellterlabs.com/en/)
+- [RingZer0Team](https://ringzer0ctf.com/challenges)
+- [ka0labs](https://challenges.ka0labs.org/)
 
 # Ejercicios para practicar
 
@@ -111,3 +118,4 @@ Esta lista son de las webs en las que hay unos ejercicios para practicar program
 - [CodeChef](https://www.codechef.com/)
 - [Coderbyte](https://coderbyte.com/)
 - [ProjectEuler](https://projecteuler.net/about) (Matemáticas, algoritmos concretos)
+- [CodeWars](https://www.codewars.com/) 
