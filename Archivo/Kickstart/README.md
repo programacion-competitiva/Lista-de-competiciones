@@ -12,7 +12,7 @@ y por rondas si supieras solo esos algoritmos. Está bien para ver cuánta impor
 tiene cada algoritmo o estructura de datos a la hora de competiciones de dificultad
 similar al Kickstart.
 
-![plot](plot_example)
+![plot](plot_example.png)
 
 Aclaraciones necesarias sobre el programa y los datos:
 
